@@ -1,4 +1,4 @@
-### Hi, I'm Jenna!
+## 👋 Hi, I'm Jenna!
 
 👩🏻‍💻 Data & AI Analytics <br/>
 👩🏻‍🎓 MSc Applied Social Data Science at the LSE, UK | BA Politics and Economic at Waseda Uni, Japan<br/>
