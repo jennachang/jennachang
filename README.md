@@ -1,4 +1,10 @@
-## Hi there 👋
+### Hi, I'm Jenna!
+
+👩🏻‍💻 Data & AI Analytics <br/>
+👩🏻‍🎓 MSc Applied Social Data Science at the LSE, UK | BA Politics and Economic at Waseda Uni, Japan<br/>
+🎨 Piano, RocknRoll, Reading<br/>
+🌷 Here’s a little something more about [me](https://jennachang.github.io/)<br/>
+💭 Professional interests and continuous learning in Statistics, Data Analytics, and AI<br/>
 
 <!--
 **jennachang/jennachang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
